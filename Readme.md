@@ -1,4 +1,4 @@
 ## Assignment 1
 ### Subject - DL
-#### Name - Sakshi Borse
-#### Roll no. - 14
+#### Name - Riya Chavan
+#### Roll no. - 20
