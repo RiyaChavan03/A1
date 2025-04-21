@@ -1,4 +1,4 @@
 ## Assignment 1
 ### Subject - DL
-#### Name - Riya Chavan
+#### Name - Khushi Chavan
 #### Roll no. - 20
