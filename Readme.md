@@ -1,4 +1,4 @@
 ## Assignment 1
 ### Subject - DL
-#### Name - Khushi Chavan
-#### Roll no. - 19
+#### Name - Sakshi Borse
+#### Roll no. - 14
